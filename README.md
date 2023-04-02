@@ -6,7 +6,7 @@ A lightweight wrapper for sending Discord messages in Ruby.
 
 Add the gem to your project
 
-```
+```rb
 # Gemfile
 gem 'discord-messenger'
 ```
